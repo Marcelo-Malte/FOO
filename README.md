@@ -34,34 +34,17 @@
 
 ---
 
-## 🌐 Deploy
-
-[Enlace al sitio desplegado](https://ejemplo-deploy.com)
-
----
 
 ## 👥 Nuestro equipo: **BugBusters**
 
-### Project Manager
-- María José Leaniz
-
-### Analista Funcional
-- Marcelo Malte
-
-### Community Manager
-- Florencia Rosales
+- ![](./assets/Screenshot_39.png)
 
 ---
 
 ### UX/UI
+- ![](./assets/Screenshot_40.png)
 
-| Nombre               | Rol               |
-|----------------------|--------------------|
-| Axel Palombo         | Diseñador UX/UI    |
-| Tomas Falchi         | Diseñador UX/UI    |
-| Mayra Coronel        | Diseñadora UX/UI   |
-| Brenda Alayo         | Diseñadora UX/UI   |
-| Victoria Alcano      | Diseñadora UX/UI   |
+
 
 **Tareas:**
 
@@ -77,12 +60,8 @@
 
 ### Backend
 
-| Nombre               | Rol                  |
-|----------------------|-----------------------|
-| Anthony Parra        | Desarrollador Backend |
-| Nadia Cendra         | Desarrolladora Backend|
-| Dolores Parral       | Desarrolladora Backend|
-| Luciano Copa         | Desarrollador Backend |
+- ![](./assets/Screenshot_41.png)
+
 
 **Tareas:**
 
@@ -99,10 +78,7 @@
 
 ### Frontend
 
-| Nombre               | Rol                  |
-|----------------------|-----------------------|
-| Adrian Alejos        | Desarrollador Frontend|
-| Emmanuel Cruz        | Desarrollador Frontend|
+- ![](./assets/Screenshot_42.png)
 
 **Tareas:**
 
@@ -118,12 +94,7 @@
 
 ### QA & Testing
 
-| Nombre               | Rol          |
-|----------------------|---------------|
-| Dario Malkischer     | QA Tester     |
-| Daiana Barboza       | QA Tester     |
-| Mariana Ludueña      | QA Tester     |
-| Andrés Pelufo        | QA Tester     |
+- ![](./assets/Screenshot_43.png)
 
 **Tareas:**
 
