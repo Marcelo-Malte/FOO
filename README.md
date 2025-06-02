@@ -30,7 +30,7 @@
 
 > *(Aquí puedes incluir imágenes del sistema, por ejemplo: login, dashboard, agenda, historia clínica, carga de estudios, etc.)*
 
-- ![Login](ruta-a-imagen)
+- ![Login](./assets/Screenshot_35.png)
 - ![Dashboard](ruta-a-imagen)
 - ![Agenda](ruta-a-imagen)
 - ![Historia Clínica](ruta-a-imagen)
