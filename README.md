@@ -36,15 +36,16 @@
 
 
 ## 👥 Nuestro equipo: **BugBusters**
-
-- ![](./assets/Screenshot_39.png)
-
+### Gestión y Análisis
+![](./assets/Screenshot_39.png)
+**Tareas:**
+- Exploración y Planificacion del proyecto
+- Elaboración de documentos PRD, HUS, CUS
+- Elaborar estrategia de contenido y difusión 
 ---
 
 ### UX/UI
-- ![](./assets/Screenshot_40.png)
-
-
+![](./assets/Screenshot_40.png)
 
 **Tareas:**
 
@@ -53,8 +54,8 @@
 - Wireframes de alta fidelidad y prototipado.
 - Diseño UI, mockups e interacción.
 
-**Herramientas:** Figma, Google Drive, Miro, Cloudinary  
-**Prototipo:** [Enlace al prototipo]
+ 
+**Prototipo:** [https://www.figma.com/files/team/1500183653133028701/project/377960672/AURA?fuid=1210675397930087460]
 
 ---
 
@@ -65,14 +66,9 @@
 
 **Tareas:**
 
-- Desarrollo de API con Java - Spring Boot.
-- Base de datos en PostgreSQL.
-- Validación de usuarios con JWT.
-- Envío de notificaciones por email (Spring Mail).
+- Desarrollo de API 
+- Base de datos 
 - Documentación con Swagger.
-- Deploy en Azure.
-
-**Herramientas:** Java, Spring Boot, PostgreSQL, Swagger, Azure
 
 ---
 
@@ -82,13 +78,9 @@
 
 **Tareas:**
 
-- Desarrollo de componentes en Angular.
-- Implementación de rutas y servicios.
-- Consumo de imágenes desde Cloudinary.
-- Responsive design con Bootstrap.
-- Deploy en AWS.
+- Desarrollo
 
-**Herramientas:** Angular, Bootstrap, NgRx, AWS
+
 
 ---
 
@@ -98,20 +90,18 @@
 
 **Tareas:**
 
-- Definición del producto mínimo viable (MVP).
-- Desarrollo de reglas de negocio, historias de usuario y criterios de aceptación.
-- Creación de casos de uso y flujos alternos.
+
 - Testing funcional y exploratorio.
 - Ejecución y documentación de pruebas (test plan, incidencias).
-- Testing de la API con Postman.
+- Testing del proyecto
 
-**Herramientas:** Jira, Google Docs, Postman
+
 
 ---
 
 ## 📄 Documentación
 
-- [Documento de Requerimientos del Producto (PRD)](https://docs.google.com/document/d/1YFGfyz-5oPJKcNYgA68cQXGOBn9bpH7P/edit#heading=h.j44bz483i10e)
+- [Documento de Requerimientos del Producto (PRD)](https://docs.google.com/document/d/1Ey0Gy7bsxTlZEBgh4PBdq9XzG588JxGGq30Uuc0pCY4/edit?usp=sharing)
 - [Prototipo UX/UI](#)
 - [Documentación Técnica – API Swagger](#)
 - [Plan de Pruebas](#)
