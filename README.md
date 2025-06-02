@@ -104,10 +104,6 @@
 
 ---
 
-## 📬 Contacto
 
-Si deseas saber más del proyecto o del equipo, no dudes en escribirnos o visitar nuestros perfiles de LinkedIn y GitHub.
-
----
 
 
