@@ -27,14 +27,10 @@
 ---
 
 ## 🖼️ Screenshots
-
-> *(Aquí puedes incluir imágenes del sistema, por ejemplo: login, dashboard, agenda, historia clínica, carga de estudios, etc.)*
-
 - ![Login](./assets/Screenshot_35.png)
-- ![Dashboard](ruta-a-imagen)
-- ![Agenda](ruta-a-imagen)
-- ![Historia Clínica](ruta-a-imagen)
-- ![Carga de Estudios](ruta-a-imagen)
+- ![Lista Pacientes](./assets/Screenshot_36.png)
+- ![Historial Clínico](./assets/Screenshot_37.png)
+- ![Lista de Usuarios](./assets/Screenshot_38.png)
 
 ---
 
