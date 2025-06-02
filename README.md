@@ -38,7 +38,9 @@
 ## 👥 Nuestro equipo: **BugBusters**
 ### Gestión y Análisis
 ![](./assets/Screenshot_39.png)
+
 **Tareas:**
+
 - Exploración y Planificacion del proyecto
 - Elaboración de documentos PRD, HUS, CUS
 - Elaborar estrategia de contenido y difusión 
@@ -55,8 +57,8 @@
 - Diseño UI, mockups e interacción.
 
  
-**Prototipo:** [https://www.figma.com/files/team/1500183653133028701/project/377960672/AURA?fuid=1210675397930087460]
-
+**Prototipo:** 
+- [Prototipo UX/UI](https://www.figma.com/files/team/1500183653133028701/project/377960672/AURA?fuid=1210675397930087460)
 ---
 
 ### Backend
@@ -80,8 +82,6 @@
 
 - Desarrollo
 
-
-
 ---
 
 ### QA & Testing
@@ -90,12 +90,9 @@
 
 **Tareas:**
 
-
 - Testing funcional y exploratorio.
 - Ejecución y documentación de pruebas (test plan, incidencias).
 - Testing del proyecto
-
-
 
 ---
 
@@ -103,8 +100,7 @@
 
 - [Documento de Requerimientos del Producto (PRD)](https://docs.google.com/document/d/1Ey0Gy7bsxTlZEBgh4PBdq9XzG588JxGGq30Uuc0pCY4/edit?usp=sharing)
 - [Prototipo UX/UI](#)
-- [Documentación Técnica – API Swagger](#)
-- [Plan de Pruebas](#)
+
 
 ---
 
