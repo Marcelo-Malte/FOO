@@ -1,4 +1,4 @@
-# AURA – Sistema de Gestión Clínica Integral
+# 🩺AURA – Administración Unificada de Registros y Atenciones
 
 **AURA** es una solución web integral pensada para centros terapéuticos que buscan digitalizar y optimizar la gestión de pacientes, turnos y documentación clínica. El objetivo es brindar una herramienta centralizada, segura y eficiente que facilite el trabajo tanto del personal administrativo como del equipo profesional.
 
@@ -99,11 +99,18 @@
 ## 📄 Documentación
 
 - [Documento de Requerimientos del Producto (PRD)](https://docs.google.com/document/d/1Ey0Gy7bsxTlZEBgh4PBdq9XzG588JxGGq30Uuc0pCY4/edit?usp=sharing)
-- [Prototipo UX/UI](#)
+- [Prototipo UX/UI](https://www.figma.com/files/team/1500183653133028701/project/377960672/AURA?fuid=1210675397930087460)
 
 
 ---
 
+## 📬 Contacto
+
+Si deseas saber más del proyecto o del equipo, no dudes en escribirnos o visitar nuestros perfiles de LinkedIn y GitHub.
+
+- [Contacto](https://linktr.ee/aura.footalent)
+
+---
 
 
 
